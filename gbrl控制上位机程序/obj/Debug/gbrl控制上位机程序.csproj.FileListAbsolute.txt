@@ -1,0 +1,9 @@
+C:\Users\john\Desktop\c#\gbrl控制上位机程序\gbrl控制上位机程序\bin\Debug\gbrl控制上位机程序.exe.config
+C:\Users\john\Desktop\c#\gbrl控制上位机程序\gbrl控制上位机程序\bin\Debug\gbrl控制上位机程序.exe
+C:\Users\john\Desktop\c#\gbrl控制上位机程序\gbrl控制上位机程序\bin\Debug\gbrl控制上位机程序.pdb
+C:\Users\john\Desktop\c#\gbrl控制上位机程序\gbrl控制上位机程序\obj\Debug\gbrl控制上位机程序.csprojResolveAssemblyReference.cache
+C:\Users\john\Desktop\c#\gbrl控制上位机程序\gbrl控制上位机程序\obj\Debug\gbrl控制上位机程序.Form1.resources
+C:\Users\john\Desktop\c#\gbrl控制上位机程序\gbrl控制上位机程序\obj\Debug\gbrl控制上位机程序.Properties.Resources.resources
+C:\Users\john\Desktop\c#\gbrl控制上位机程序\gbrl控制上位机程序\obj\Debug\gbrl控制上位机程序.csproj.GenerateResource.Cache
+C:\Users\john\Desktop\c#\gbrl控制上位机程序\gbrl控制上位机程序\obj\Debug\gbrl控制上位机程序.exe
+C:\Users\john\Desktop\c#\gbrl控制上位机程序\gbrl控制上位机程序\obj\Debug\gbrl控制上位机程序.pdb

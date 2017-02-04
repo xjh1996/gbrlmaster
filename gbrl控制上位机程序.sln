@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "grbl控制上位机程序", "gbrl控制上位机程序\grbl控制上位机程序.csproj", "{7F1E5264-6C24-48F9-80A1-D55C9B98ADC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "串口基本收发", "串口基本收发\串口基本收发.csproj", "{BA7807BE-FAA0-4173-9599-47476D9E1F2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F1E5264-6C24-48F9-80A1-D55C9B98ADC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F1E5264-6C24-48F9-80A1-D55C9B98ADC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F1E5264-6C24-48F9-80A1-D55C9B98ADC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F1E5264-6C24-48F9-80A1-D55C9B98ADC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA7807BE-FAA0-4173-9599-47476D9E1F2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA7807BE-FAA0-4173-9599-47476D9E1F2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA7807BE-FAA0-4173-9599-47476D9E1F2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA7807BE-FAA0-4173-9599-47476D9E1F2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

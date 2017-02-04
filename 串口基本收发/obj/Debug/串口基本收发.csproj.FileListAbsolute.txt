@@ -1,0 +1,9 @@
+C:\Users\john\Desktop\c#\gbrl控制上位机程序\串口基本收发\bin\Debug\串口基本收发.exe.config
+C:\Users\john\Desktop\c#\gbrl控制上位机程序\串口基本收发\bin\Debug\串口基本收发.exe
+C:\Users\john\Desktop\c#\gbrl控制上位机程序\串口基本收发\bin\Debug\串口基本收发.pdb
+C:\Users\john\Desktop\c#\gbrl控制上位机程序\串口基本收发\obj\Debug\串口基本收发.csprojResolveAssemblyReference.cache
+C:\Users\john\Desktop\c#\gbrl控制上位机程序\串口基本收发\obj\Debug\串口基本收发.Form1.resources
+C:\Users\john\Desktop\c#\gbrl控制上位机程序\串口基本收发\obj\Debug\串口基本收发.Properties.Resources.resources
+C:\Users\john\Desktop\c#\gbrl控制上位机程序\串口基本收发\obj\Debug\串口基本收发.csproj.GenerateResource.Cache
+C:\Users\john\Desktop\c#\gbrl控制上位机程序\串口基本收发\obj\Debug\串口基本收发.exe
+C:\Users\john\Desktop\c#\gbrl控制上位机程序\串口基本收发\obj\Debug\串口基本收发.pdb
